@@ -448,7 +448,7 @@ footer
 {
         padding-top: 8em;
         padding-bottom: 8em;
-        background-image: url(assets/img/s1.jpg);
+        background-image: url(/assets/img/s1.jpg);
         background-position: center center;
         background-size: cover;
         background-attachment: fixed;
@@ -520,7 +520,7 @@ footer
     {
     padding-top: 15em;
     padding-bottom: 3em;
-    background-image: url('image/ss.jpg');
+    background-image: url('/assets/img/ss.jpg');
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
@@ -594,7 +594,7 @@ footer
 }
 #diet
 {
-    background-image: url('ventre.png');
+    background-image: url('/assets/img/ventre.png');
     background-size: cover;
     height: 500px;
     margin: 0;
@@ -929,7 +929,7 @@ border: 1px solid #006fdc;
 {
         padding-top: 8em;
         padding-bottom: 8em;
-        background-image: url(contact.jpg);
+        background-image: url("/assets/img/contact.jpg");
         background-position: center center;
         background-size: cover;
         background-attachment: fixed;
@@ -975,7 +975,7 @@ border: 1px solid #006fdc;
 {
     padding-top: 15em;
     padding-bottom: 4em;
-    background-image: url('photoi/az.jpg');
+    background-image: url('/assets/img/az.jpg');
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
@@ -1015,7 +1015,7 @@ border: 1px solid #006fdc;
 {
     padding-top: 15em;
     padding-bottom: 4em;
-    background-image: url('photoi/diet1.jpg');
+    background-image: url('/assets/img/diet1.jpg');
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
